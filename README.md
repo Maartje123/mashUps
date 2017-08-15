@@ -24,6 +24,9 @@ All the files needed for this component can be found at: https://github.com/Maar
 # 4. Select only one value
 <img src="https://raw.githubusercontent.com/creatuluw/select_one_value/master/example.gif" align="center" width="600" />
 
+# 5. Conditional show
+<img src="https://github.com/Maartje123/Conditional_Show/blob/master/Conditional_Show.gif" align="center" width="600" />
+
 ### A component to filter only on one value
 All the files needed for this component can be found at: https://github.com/creatuluw/select_one_value
 <hr />
